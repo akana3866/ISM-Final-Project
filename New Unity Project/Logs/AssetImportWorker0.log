@@ -1,0 +1,166 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/aditi/Desktop/School/ISM FInal Project/ISM-Final-Project/New Unity Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60585
+Successfully changed project path to: /Users/aditi/Desktop/School/ISM FInal Project/ISM-Final-Project/New Unity Project
+/Users/aditi/Desktop/School/ISM FInal Project/ISM-Final-Project/New Unity Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 149.07 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/aditi/Desktop/School/ISM FInal Project/ISM-Final-Project/New Unity Project/Assets
+GfxDevice: creating device client; threaded=0
+2021-04-26 11:29:26.120 Unity[38065:8880421] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 640 (low power)
+2021-04-26 11:29:26.120 Unity[38065:8880421] Metal devices available: 1
+2021-04-26 11:29:26.120 Unity[38065:8880421] 0: Intel(R) Iris(TM) Plus Graphics 640 (low power)
+2021-04-26 11:29:26.121 Unity[38065:8880421] Using device Intel(R) Iris(TM) Plus Graphics 640 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 640
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56065
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.003329 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 77.15 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.237 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001482 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 53.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.475 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1807 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.6 MB.
+System memory in use after: 144.6 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2249.
+Total: 5.968418 ms (FindLiveObjects: 0.391685 ms CreateObjectMapping: 0.093042 ms MarkObjects: 5.249213 ms  DeleteObjects: 0.232136 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh
+  artifactKey: Guid(a23ce32eb74701d4db51f42e2661b75f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh using Guid(a23ce32eb74701d4db51f42e2661b75f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77f19242628fa022fa7932127f9246d3') in 0.015264 seconds
+  Import took 0.020342 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003913 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.268 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.8 MB.
+System memory in use after: 144.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2253.
+Total: 3.910101 ms (FindLiveObjects: 0.430260 ms CreateObjectMapping: 0.148222 ms MarkObjects: 3.191376 ms  DeleteObjects: 0.137649 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2775.404840 seconds.
+  path: Packages/com.unity.2d.sprite/package.json
+  artifactKey: Guid(7dc5f1e5d04ac8549ac21802071e983b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/package.json using Guid(7dc5f1e5d04ac8549ac21802071e983b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06de123f0bbb32458361dc07305f28d7') in 1.917209 seconds
+  Import took 1.943283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.766170 seconds.
+  path: Packages/com.unity.2d.sprite/CHANGELOG.md
+  artifactKey: Guid(b7007d815829e7644bb81d1f8004a340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/CHANGELOG.md using Guid(b7007d815829e7644bb81d1f8004a340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe91bd988b2d36e07acd8455e4cd6796') in 2.340491 seconds
+  Import took 2.346905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.078148 seconds.
+  path: Packages/com.unity.2d.sprite/Editor
+  artifactKey: Guid(16fa2ad734f422245b86558310973ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor using Guid(16fa2ad734f422245b86558310973ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a8397928181e9df92f81cdb62b35cff') in 0.001579 seconds
+  Import took 0.008033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.938298 seconds.
+  path: Packages/com.unity.2d.sprite/LICENSE.md
+  artifactKey: Guid(20ef7441e2dc7954c9ba3a12ffbac4d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/LICENSE.md using Guid(20ef7441e2dc7954c9ba3a12ffbac4d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77fd619e693f58986ba501d14d2e8aa8') in 0.004185 seconds
+  Import took 0.009413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.529574 seconds.
+  path: Packages/com.unity.2d.sprite/README.md
+  artifactKey: Guid(e31c136ab48c1194184380e435f3936d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/README.md using Guid(e31c136ab48c1194184380e435f3936d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a4964d17296fa257c63ffb0349f5b30') in 0.002818 seconds
+  Import took 0.007692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000951 seconds.
+  path: Packages/com.unity.2d.sprite/README.md
+  artifactKey: Guid(e31c136ab48c1194184380e435f3936d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/README.md using Guid(e31c136ab48c1194184380e435f3936d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a4964d17296fa257c63ffb0349f5b30') in 0.002570 seconds
+  Import took 0.009214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.846851 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Body.png
+  artifactKey: Guid(ea3ababbf963ba74d857824be9c13cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Body.png using Guid(ea3ababbf963ba74d857824be9c13cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc24f99efffdf2bd557be731a804da44') in 1.230592 seconds
+  Import took 1.235723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/RightArm.png
+  artifactKey: Guid(d9186e1c6e7e7af42814ff3d20ff83a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/RightArm.png using Guid(d9186e1c6e7e7af42814ff3d20ff83a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a1ef9e28a0818b6567ba5c57411abf8') in 0.036056 seconds
+  Import took 0.040821 seconds .
+
