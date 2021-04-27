@@ -1989,3 +1989,321 @@ System memory in use after: 163.3 MB.
 Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2409.
 Total: 3.523478 ms (FindLiveObjects: 0.427729 ms CreateObjectMapping: 0.099493 ms MarkObjects: 2.834805 ms  DeleteObjects: 0.159381 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001726 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.525 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1799 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 163.5 MB.
+System memory in use after: 163.6 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2413.
+Total: 6.108452 ms (FindLiveObjects: 0.444802 ms CreateObjectMapping: 0.148008 ms MarkObjects: 5.439730 ms  DeleteObjects: 0.074201 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1309.379850 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/Ground.prefab
+  artifactKey: Guid(752f82f2ccec94f1c8efd723ecda6688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/Ground.prefab using Guid(752f82f2ccec94f1c8efd723ecda6688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2014891f74791e6c038b3910072602fc') in 0.246071 seconds
+  Import took 0.251461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.431166 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )
+  artifactKey: Guid(f24df406af5b44d4b93237a1564ea376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 ) using Guid(f24df406af5b44d4b93237a1564ea376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c049d54fc9077bfbfaf7271fd6fa119b') in 0.003561 seconds
+  Import took 0.010869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.456926 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring
+  artifactKey: Guid(4d5a8ea2a70ada34e96ea228a8b5f03b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring using Guid(4d5a8ea2a70ada34e96ea228a8b5f03b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30703d95226e8f54b2d2d49fc2cb06e7') in 0.002091 seconds
+  Import took 0.005942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.145189 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256
+  artifactKey: Guid(9df02b544146c0145bc171f01699c8c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256 using Guid(9df02b544146c0145bc171f01699c8c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e875547c3468674cfbe0b7251423730') in 0.002907 seconds
+  Import took 0.010201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.071677 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassCliffMid.png
+  artifactKey: Guid(3508f1573909af1428b1c44c1ec34c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassCliffMid.png using Guid(3508f1573909af1428b1c44c1ec34c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fd7722a24f763c418343c7742be6a36') in 0.063478 seconds
+  Import took 0.067871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassHillLeft2.png
+  artifactKey: Guid(72f94200b0117034b90150a90daf551f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassHillLeft2.png using Guid(72f94200b0117034b90150a90daf551f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c948ccb4531a59c50bec0c424222cd4') in 0.013296 seconds
+  Import took 0.019060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000408 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassJoinHillLeft2.png
+  artifactKey: Guid(6abc9dad9a9b7814dab6ea164a88d084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassJoinHillLeft2.png using Guid(6abc9dad9a9b7814dab6ea164a88d084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65d253ca00622e0506ec7f00cc1f738e') in 0.017799 seconds
+  Import took 0.021479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000660 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassJoinHillRight&Left.png
+  artifactKey: Guid(8faf69609c8162843a842b489d7f1954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassJoinHillRight&Left.png using Guid(8faf69609c8162843a842b489d7f1954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0057aa6cf58fb64fd1f04f7e7188d852') in 0.018248 seconds
+  Import took 0.023108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassColumn.png
+  artifactKey: Guid(744be3976944b754bbe6492c94dc45e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassColumn.png using Guid(744be3976944b754bbe6492c94dc45e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e6b4deb9226ad6ca420aa7cab20a848') in 0.014196 seconds
+  Import took 0.017453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassHillRight2.png
+  artifactKey: Guid(9142a53b01f878444ae52a936564cbaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassHillRight2.png using Guid(9142a53b01f878444ae52a936564cbaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '914795a6ac011d89a8153b6ea28b854d') in 0.029286 seconds
+  Import took 0.032441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassHillRight2 DownShadow.png
+  artifactKey: Guid(dabe91581cff3fc4d8b2185a6476ef4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassHillRight2 DownShadow.png using Guid(dabe91581cff3fc4d8b2185a6476ef4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51d8fd63f7adcbfa961f88c7d689b1be') in 0.011486 seconds
+  Import took 0.015414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassJoinHillLeft2 DownShadow.png
+  artifactKey: Guid(59c87abf501fa4647ae33e5dc7c36c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassJoinHillLeft2 DownShadow.png using Guid(59c87abf501fa4647ae33e5dc7c36c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9afe2d4c686df6441272869115709685') in 0.027081 seconds
+  Import took 0.030784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000475 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassHillLeft.png
+  artifactKey: Guid(1728b528a1d879141b698788b6fd05ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassHillLeft.png using Guid(1728b528a1d879141b698788b6fd05ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4de9e11170504ecf321e7920341c792') in 0.016244 seconds
+  Import took 0.019309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassJoinHillLeft.png
+  artifactKey: Guid(cfe4e5f21bb46a441b5fe85fa649b7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassJoinHillLeft.png using Guid(cfe4e5f21bb46a441b5fe85fa649b7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1e3d863e816858775793e2f4ba4409b') in 0.035237 seconds
+  Import took 0.038852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassHillLeft2 DownShadow.png
+  artifactKey: Guid(5b1fdc387a8505c4eaf48dd0d9872643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassHillLeft2 DownShadow.png using Guid(5b1fdc387a8505c4eaf48dd0d9872643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3ce3dad4e3c78c9a37503c8c917f38d') in 0.012411 seconds
+  Import took 0.016346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1212.311320 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassCliffMid.png
+  artifactKey: Guid(1af3f64c5b272d64b90095605c6f2eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassCliffMid.png using Guid(1af3f64c5b272d64b90095605c6f2eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd802cbf76ad2c957ecb361789e54c11d') in 0.037921 seconds
+  Import took 0.070957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassColumn.png
+  artifactKey: Guid(21a46f549323fb349b9c1a4972f9a1e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassColumn.png using Guid(21a46f549323fb349b9c1a4972f9a1e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60444ba71d06154343ae4910c9734422') in 0.011055 seconds
+  Import took 0.018348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassJoinHillRight.png
+  artifactKey: Guid(a13cc953b849f3c4eb9bb5331ddb02af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassJoinHillRight.png using Guid(a13cc953b849f3c4eb9bb5331ddb02af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bc1d09fc183ea0f5e6afd0083fa45cc') in 0.024103 seconds
+  Import took 0.031030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassHillLeft.png
+  artifactKey: Guid(39b8307f6747c084ea6ad643d5f1432f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassHillLeft.png using Guid(39b8307f6747c084ea6ad643d5f1432f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dda2c878e5eed8be20286523486b6ea') in 0.016582 seconds
+  Import took 0.021160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassJoinHillLeft2 DownShadow.png
+  artifactKey: Guid(793f003b3cdfcc54f9bf7010f8c14a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassJoinHillLeft2 DownShadow.png using Guid(793f003b3cdfcc54f9bf7010f8c14a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02dd96122f0e43eca8c4147522aedfa8') in 0.024859 seconds
+  Import took 0.028118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassHillRight.png
+  artifactKey: Guid(0fa00a8fe36a46a499db8f35e13e2cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassHillRight.png using Guid(0fa00a8fe36a46a499db8f35e13e2cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '203869307998de6211fce76f1faaeab3') in 0.018317 seconds
+  Import took 0.021939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassJoinHillLeft2.png
+  artifactKey: Guid(010fb8b30364cd94a99f8e08da61dea4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassJoinHillLeft2.png using Guid(010fb8b30364cd94a99f8e08da61dea4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a750cb685d0398ad04b57c85c7f34fb7') in 0.033344 seconds
+  Import took 0.037713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000455 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassJoinHillRight2.png
+  artifactKey: Guid(b4e920ddddf02e542a798da0937745db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassJoinHillRight2.png using Guid(b4e920ddddf02e542a798da0937745db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45feaec5f2153575277b9f0b9168b9f3') in 0.016049 seconds
+  Import took 0.021242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000587 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassHillLeft2.png
+  artifactKey: Guid(a15de4807924b4d428287d0a2b3dc832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassHillLeft2.png using Guid(a15de4807924b4d428287d0a2b3dc832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50a3c4ae3f5426cec61c22dbc91228a5') in 0.032379 seconds
+  Import took 0.036018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassJoinHillLeft.png
+  artifactKey: Guid(a8a146b2b6736984f9f272c4b20b8c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassJoinHillLeft.png using Guid(a8a146b2b6736984f9f272c4b20b8c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '962e9506e3983a1aef3390f0ae1ad693') in 0.018313 seconds
+  Import took 0.021699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassHillLeft2 DownShadow.png
+  artifactKey: Guid(843abc5aa8fafa2459cb325515dd951b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassHillLeft2 DownShadow.png using Guid(843abc5aa8fafa2459cb325515dd951b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f7aef06e3c0be2061553d6c169a0636') in 0.028522 seconds
+  Import took 0.031999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001036 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassJoinHillRight&Left.png
+  artifactKey: Guid(8f16746f33960194c91cf9c90ab154c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassJoinHillRight&Left.png using Guid(8f16746f33960194c91cf9c90ab154c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94f3142b1d2f22508c7478ec46a9d3cb') in 0.013146 seconds
+  Import took 0.017147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassHillRight2.png
+  artifactKey: Guid(46513890a36dfaf46a8979fae61f18ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassHillRight2.png using Guid(46513890a36dfaf46a8979fae61f18ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbb19df8697fdbac104220249f4091da') in 0.032002 seconds
+  Import took 0.037221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassCliffRight.png
+  artifactKey: Guid(b661778ca4115214bbcd8d593f31fa1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassCliffRight.png using Guid(b661778ca4115214bbcd8d593f31fa1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '345964544b63c308869c6824d1ff1aed') in 0.017890 seconds
+  Import took 0.023631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.808001 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png
+  artifactKey: Guid(951ec2ce772bec1418f69a188033f447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png using Guid(951ec2ce772bec1418f69a188033f447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0150646a43516553c133b06625c8580') in 0.002783 seconds
+  Import took 0.007756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.590605 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/1024x1024
+  artifactKey: Guid(dcef3d69eda42494899c9d14e5041ccb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/1024x1024 using Guid(dcef3d69eda42494899c9d14e5041ccb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '570911a1ac87aef570e04054d1c3656c') in 0.001978 seconds
+  Import took 0.011743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.048721 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/1024x1024/Environment.asset
+  artifactKey: Guid(289befe8873224706a82467177a53b5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/1024x1024/Environment.asset using Guid(289befe8873224706a82467177a53b5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1596f50a9c1b838d15c2d3299fb4f122') in 0.507496 seconds
+  Import took 0.511237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.307886 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Environments/Environments/Environment
+  artifactKey: Guid(fad060f10c8da48c2836fed246529cb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Environments/Environments/Environment using Guid(fad060f10c8da48c2836fed246529cb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08fc332cb6c2f1c1979a936cd59455f6') in 0.001247 seconds
+  Import took 0.005887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.120440 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Environments/Environments/Environment/Environment.prefab
+  artifactKey: Guid(9b0acda1105f5479b9ef4f1f26d66d89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Environments/Environments/Environment/Environment.prefab using Guid(9b0acda1105f5479b9ef4f1f26d66d89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd749affb8c88184b475ba4ae181ef248') in 0.017298 seconds
+  Import took 0.021705 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001855 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.178 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.3 MB.
+System memory in use after: 172.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2421.
+Total: 3.167050 ms (FindLiveObjects: 0.496254 ms CreateObjectMapping: 0.185895 ms MarkObjects: 2.401219 ms  DeleteObjects: 0.080817 ms)
+
