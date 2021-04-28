@@ -28,7 +28,7 @@ public class PlayerMovement : MonoBehaviour
         {
             moveVelocity = -speed;
         }
-        rb.velocity = new Vector2(moveVelocty.rb.velocty.y);
+        rb.velocity = new Vector2(moveVelocity, rb.velocity.y);
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
