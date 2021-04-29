@@ -515,3 +515,97 @@ System memory in use after: 157.5 MB.
 Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2325.
 Total: 2.234223 ms (FindLiveObjects: 0.243156 ms CreateObjectMapping: 0.065107 ms MarkObjects: 1.854236 ms  DeleteObjects: 0.069538 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002615 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.808 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.0 MB.
+System memory in use after: 158.1 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2329.
+Total: 7.866830 ms (FindLiveObjects: 1.996885 ms CreateObjectMapping: 0.111844 ms MarkObjects: 4.892505 ms  DeleteObjects: 0.863608 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 20869.452027 seconds.
+  path: Assets/New Physic Material.physicMaterial
+  artifactKey: Guid(b529eaf053bc8404da664557e090ee39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Physic Material.physicMaterial using Guid(b529eaf053bc8404da664557e090ee39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75e7f46da2a447ea19c7468edf720771') in 0.567851 seconds
+  Import took 0.572159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 134.283254 seconds.
+  path: Assets/New Physics Material 2D.physicsMaterial2D
+  artifactKey: Guid(473c33173fe634683851bf430ecc502b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Physics Material 2D.physicsMaterial2D using Guid(473c33173fe634683851bf430ecc502b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a158be0bd254e577bea4e68217c59bb1') in 0.202230 seconds
+  Import took 0.206980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 262.540117 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Player.controller
+  artifactKey: Guid(9c486b72b624d46a68ba54df99ba9b5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Player.controller using Guid(9c486b72b624d46a68ba54df99ba9b5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fe5302f03bcaa9034a60be1125f73ef') in 0.218391 seconds
+  Import took 0.224276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 380.027987 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character
+  artifactKey: Guid(49d41ba9d76148b4c832aaf9c8625c68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character using Guid(49d41ba9d76148b4c832aaf9c8625c68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e60cc6d2d4ffd4f01fd5b23ad655544a') in 0.003134 seconds
+  Import took 0.016734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.553126 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Jump.anim
+  artifactKey: Guid(3d9f3dcb91c6e4f0cbf0648ec019b1e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Jump.anim using Guid(3d9f3dcb91c6e4f0cbf0648ec019b1e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34796b7755d5a851c036696d23dd3f95') in 0.199377 seconds
+  Import took 0.203606 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001330 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.303 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 174.9 MB.
+System memory in use after: 175.0 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2333.
+Total: 3.209355 ms (FindLiveObjects: 0.588846 ms CreateObjectMapping: 0.146690 ms MarkObjects: 2.368145 ms  DeleteObjects: 0.103615 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1439.764202 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Run.anim
+  artifactKey: Guid(eda30c758abb64e2b9acc58068991514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Run.anim using Guid(eda30c758abb64e2b9acc58068991514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3da1772723f87f33ab0bc2617acd2d7e') in 0.037755 seconds
+  Import took 0.041527 seconds .
+
