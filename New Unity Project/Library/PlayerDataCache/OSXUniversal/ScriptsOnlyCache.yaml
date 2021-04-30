@@ -12,6 +12,7 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.IK.IKEditorManagerHelper
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridBrush
+    - UnityEditor.Tilemaps.GridBrushEditor
     - UnityEditor.Tilemaps.GridPaintPaletteClipboard
     - UnityEditor.Tilemaps.GridPaintPaletteWindow
     - UnityEditor.Tilemaps.GridPaintingState
@@ -631,4 +632,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Level 1.unity
   playerPath: /Users/aditi/Desktop/School/ISM FInal Project/ISM-Final-Project/New
-    Unity Project/Final Games/Red Runner.app
+    Unity Project/Final Games/Red Runner Final.app
